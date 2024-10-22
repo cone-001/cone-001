@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=9A690A&background=0D36FF00&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&multiline=true&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=Hi!+Welcome+to+GitHub%2C+Conie.)](https://git.io/typing-svg)
 <!--
 **cone-001/cone-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
