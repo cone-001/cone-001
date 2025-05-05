@@ -1,7 +1,7 @@
 <div>
 
 <!--Header-->
-![Typing SVG](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=Welcome%20to%20my%20GitHub%20%F0%9F%A4%97&textColor=000000)
+![Typing SVG](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=Welcome%20to%20my%20GitHub%20%F0%9F%A4%97&textColor=000000) 
 
 </div>
 
