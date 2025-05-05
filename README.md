@@ -13,6 +13,19 @@
   #### :fire: I'm aiming for NYU's computer engineering department.<br/>
   <br/>
   <br/>
+
+
+  ## 🧱 Tech Stack
+  ### Language
+ <!--Python-->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <!--Java-->
+ <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
+  <!--kotlin-->
+  <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
+  <br/>
+
+  ### Library
 <!--
 **cone-001/cone-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
