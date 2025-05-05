@@ -1,7 +1,8 @@
 <div>
 
 <!--Header-->
-## ![Typing SVG](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=Welcome%20to%20my%20GitHub%20%F0%9F%A4%97)
+![Typing SVG](https://capsule-render.vercel.app/api?type=Venom&color=0f62fe,9b59b6&height=300&section=header&text=Welcome%20to%20my%20GitHub%20%F0%9F%A4%97)
+
 
 </div>
 
@@ -26,6 +27,8 @@
   <br/>
 
   ### Library
+
+  
 <!--
 **cone-001/cone-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
