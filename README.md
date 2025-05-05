@@ -1,4 +1,4 @@
-## [![Typing SVG](![header](https://capsule-render.vercel.app/api?type=Venom))
+## [![Typing SVG](![header](https://capsule-render.vercel.app/api?type=Venom)
 <!--
 **cone-001/cone-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
