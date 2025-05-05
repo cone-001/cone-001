@@ -25,20 +25,9 @@
   <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
   <br/>
 
-  ### Library
+  ### 📚Library
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cone-001&show_icons=true&theme=radical)
-  
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:oka1313@gmail.com">
-    <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
 
 <!--
 **cone-001/cone-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
