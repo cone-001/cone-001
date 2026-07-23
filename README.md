@@ -25,8 +25,6 @@
   <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
   <br/>
 
-  ### 📚Library
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cone-001&show_icons=true&theme=radical)
 
 
 <!--
